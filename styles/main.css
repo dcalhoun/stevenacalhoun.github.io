@@ -45,7 +45,7 @@ li {
 
 @media screen and (max-width: 750px) {
   .profile {
-    margin-top: 0; } }
+    margin-top: 25px; } }
 .bio {
   margin: 0 20px 0 20px; }
 
@@ -53,7 +53,7 @@ li {
   margin-left: auto;
   margin-right: auto;
   border-radius: 100%;
-  border: 1px solid black;
+  border: 2px solid #555555;
   width: 198.0px;
   height: 198.0px; }
 
